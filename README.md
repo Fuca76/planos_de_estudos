@@ -7,7 +7,8 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 ![java](https://user-images.githubusercontent.com/92828809/194964241-bdf0fcb3-6ca4-4dd6-b980-660d5bd46793.png)
 
 ## Cursos ordenados por nível de dificuldade
-
+ "Quem nunca errou,nunca tentou algo novo! Albert Einstein
+ syst
 
 **Nível Iniciante**  
 
