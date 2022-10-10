@@ -7,5 +7,7 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 ![java](https://user-images.githubusercontent.com/92828809/194964241-bdf0fcb3-6ca4-4dd6-b980-660d5bd46793.png)
 
 ## Cursos ordenados por nível de dificuldade
-**Nível Iniciante**
--Introdução a plataforma Java - [acesse o curso]
+**Nível Iniciante**  
+
+- Introdução a plataqforma Java- [acesse  o curso](https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)  
+- 
