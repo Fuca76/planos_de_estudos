@@ -21,16 +21,16 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 - Dominando IDEs com Java - [acesse o curso](https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84/?back=/home)  
 
 Metas do mês de outubro:  
--[X]Introdução a plataforma Java(10/10/2022)  
--[ ]Ambiente de desenvolvimento Java(20/10/2022)  
--[ ]Dominando IDEs com Java (30/10/2022)    
+- [X]Introdução a plataforma Java(10/10/2022)  
+- [ ]Ambiente de desenvolvimento Java(20/10/2022)  
+- [ ]Dominando IDEs com Java (30/10/2022)    
 
 Tasks para continuar evoluindo:
--[X]Começar a estudar Java  
--[ ]Assista ao curso  
--[ ]Faça anotações  
--[ ]Faça os projetos sozinho  
--[ ]Tire as dúvidas  
--[ ]Done! 🎉
+- [X]Começar a estudar Java  
+- [ ]Assista ao curso  
+- [ ]Faça anotações  
+- [ ]Faça os projetos sozinho  
+- [ ]Tire as dúvidas  
+- [ ]Done! 🎉
 
 
